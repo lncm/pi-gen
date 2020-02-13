@@ -1,3 +1,4 @@
+APT_REPOSITORY=http://localhost:3142/
 IMG_NAME=lncmbox
 TARGET_HOSTNAME=thebox
 TIMEZONE_DEFAULT="Etc/UTC"
